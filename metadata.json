@@ -1,0 +1,7 @@
+{
+  "name": "CineCraft Studio - AI Image & Video Generator",
+  "description": "Intuitive AI creation studio for generating high-definition pictures, cinematic video scenes, storyboards, and optimized text prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
